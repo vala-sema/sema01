@@ -1,0 +1,6 @@
+*.sqlite3
+*.pyc
+*.log
+__pycache__
+/static
+virtualenv
